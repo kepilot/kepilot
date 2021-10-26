@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kepilot, I'm a software developper.
+- 👀 I’m interested in Python, big data, machine learning and Lovecraft
+- 🌱 I’m currently learning a bit of everything in Python.
+- 💞️ I’m looking to collaborate on nothing at the moment.
+- 📫 You can reach me at kepilot1@gmail.com
